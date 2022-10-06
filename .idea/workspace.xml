@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12bb278c-5e9f-4837-a969-63f229027e19" name="Changes" comment="html update" />
+    <list default="true" id="12bb278c-5e9f-4837-a969-63f229027e19" name="Changes" comment="html update">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thynx\CSC2200Projects\ebarraza01.github.io\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664978167160</updated>
       <workItem from="1664978168486" duration="646000" />
-      <workItem from="1664980648306" duration="3777000" />
+      <workItem from="1664980648306" duration="4115000" />
     </task>
     <task id="LOCAL-00001" summary="html update">
       <created>1665085661176</created>
@@ -67,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665086765029</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="html update">
+      <created>1665087424362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665087424362</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
